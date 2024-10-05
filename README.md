@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm jhj2075</h1>
-<h3 align="left">A passionate student from Korea, Soongsil Univ.</h3>
 
 - 📫 How to reach me **flg989@naver.com**
 
