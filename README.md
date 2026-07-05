@@ -45,19 +45,6 @@
 
 <br/>
 
-## 📌 Projects
-
-- 🌱 **GreenSpark**  
-  환경/에너지 관련 서비스를 다룬 Spring 기반 백엔드 프로젝트
-
-- 🔮 **BitOracle**  
-  데이터 처리와 API 연동을 중심으로 구현한 서비스 프로젝트
-
-- 🧾 **STEW**  
-  사용자 기능과 서버 로직을 설계하며 협업한 웹 서비스 프로젝트
-
-<br/>
-
 ## 🏆 Algorithm
 
 <p align="center">
